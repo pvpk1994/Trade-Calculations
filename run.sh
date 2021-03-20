@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: Pavan Kumar Paluri
-# Executable for main
+# Executable for Integrator file
 g++ -std=c++11 -c integrator.cpp
 # shellcheck disable=SC1072
 if [ $? -eq 0 ]; then
